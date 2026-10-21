@@ -1,4 +1,4 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+# [Soul Four] — Digital Problem Framing Mini Project
 
 ## Tim
 
@@ -13,10 +13,10 @@
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [contoh: Kantin Kampus "Makmur"]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Nama Unit Usaha**: [Sederhana Loundry]
+- **Lokasi**: [sebelah gerbang utama kampus UAD]
+- **Pemilik**: [Ibu Guna]
+- **Jenis Usaha**: [Laundry]
 
 ## Driving Question
 
