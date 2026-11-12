@@ -13,9 +13,9 @@
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [Sederhana Loundry]
-- **Lokasi**: [sebelah gerbang utama kampus UAD]
-- **Pemilik**: [Ibu Guna]
+- **Nama Unit Usaha**: [loundry Que]
+- **Lokasi**: [Jl. Ki Ageng Pemanahan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta]
+- **Pemilik**: [Ibu Ratih]
 - **Jenis Usaha**: [Laundry]
 
 ## Driving Question
