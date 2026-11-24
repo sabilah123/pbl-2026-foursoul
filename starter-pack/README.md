@@ -6,7 +6,7 @@
 |---|---|---|
 | [Salsabilah Prasong] | [2600016082] | Discover, Build |
 | [Rifda Muthia Asyifa ] | [2600016087] | Frame, Test |
-| [Najma Azahra Salsabila] | [2600016080] | Define, Communicate |
+| [Najma Zahrani Salsabila] | [2600016080] | Define, Communicate |
 | [Hanasyah Syuhara Ratu] | [2600016085] | Design, Reflect |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
